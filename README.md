@@ -2,8 +2,6 @@
 Código js para cifrar y descifrar mensajes con cifrado césar
 # Cifrado César implementado en JS
 
-[Demo en vivo](https://utn-mdp.github.io/cifrado-cesar/)
-
 ### Para iniciarlo:
 
 ```bash
